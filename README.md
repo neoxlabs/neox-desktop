@@ -1,14 +1,11 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-white.png">
-    <img src="docs/assets/mark-dark.png" alt="NeoX" width="88">
-  </picture>
+  <img src="docs/assets/mark.png" alt="NeoX" width="96">
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/neox-white.png">
-    <img src="docs/assets/neox-dark.png" alt="neox" width="180">
+    <img src="docs/assets/neox-dark.png" alt="neox" width="160">
   </picture>
 </p>
 
@@ -16,7 +13,7 @@
 
 <p align="center">
   <strong>Desktop IDE for agentic coding.</strong><br>
-  面向 Agent 协作编程的桌面 IDE。
+  面向 Agent 协作编程的桌面 IDE.
 </p>
 
 <p align="center">
