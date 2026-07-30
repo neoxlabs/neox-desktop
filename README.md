@@ -1,12 +1,38 @@
-# Neox Desktop
-
-Local-first **Agent Workstation** — Electron IDE on the NeoX engine.
-
-<p>
-  <a href="https://neox-dev.com/download"><img src="https://img.shields.io/badge/Download-neox--dev.com-0ea5e9?style=flat-square" alt="Download" /></a>
-  <a href="https://neox-dev.com/product"><img src="https://img.shields.io/badge/Product-Overview-111827?style=flat-square" alt="Product" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-6b7280?style=flat-square" alt="License" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-white.png">
+    <img src="docs/assets/mark-dark.png" alt="NeoX" width="88">
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/neox-white.png">
+    <img src="docs/assets/neox-dark.png" alt="neox" width="180">
+  </picture>
+</p>
+
+<h1 align="center">NeoX Desktop</h1>
+
+<p align="center">
+  <strong>Desktop IDE for agentic coding.</strong><br>
+  面向 Agent 协作编程的桌面 IDE。
+</p>
+
+<p align="center">
+  <a href="https://github.com/neoxlabs/neox-desktop/stargazers"><img src="https://img.shields.io/github/stars/neoxlabs/neox-desktop?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/neoxlabs/neox-desktop/releases"><img src="https://img.shields.io/github/v/release/neoxlabs/neox-desktop?display_name=tag&label=release" alt="Release"></a>
+</p>
+
+<p align="center">
+  <a href="https://neox-dev.com">Website</a> ·
+  <a href="https://neox-dev.com/download">Download</a> ·
+  <a href="https://neox-dev.com/docs">Docs</a> ·
+  <a href="https://github.com/neoxlabs/neox">NeoX</a> ·
+  <a href="mailto:support@neox-dev.com">Contact</a>
+</p>
+
+---
 
 ## Install
 
